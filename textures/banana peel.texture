@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "banana peel",
+  "identifier": "texture:1612-ca0c8c9c-6bd3-4f0f-87a9-7ec2826f6413",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "2c49ddb733fc4dec5ac439cf8d8a4bc3",
+  "assetLocator": "textures/banana peel.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 512,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "2c49ddb733fc4dec5ac439cf8d8a4bc3",
+      "colorCount": 26411,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.345146624584987,
+      "pixelsHigh": 512,
+      "pixelsWide": 512
+    }
+  ]
+}
